@@ -14,7 +14,7 @@ Hallway and dinner table discussions at in-person events such as NixCon 2022 or 
 Such encounters not only inform many strategic decisions for individuals and organisations, but also allow forming social ties between the people involved.
 
 The main motivation for a Nix developer workshop was to give some structure to these informal processes to make them more explicit, and therefore more approachable to those interested to participate and contribute.
-Also, we were looking forward to continue UX workshop led by Elton Vecchietti, UX department lead at Modus Create, in order to address one of those major issues that is mainly facing *users,* as opposed to *contributors and maintainers*.
+We were also looking forward to continue UX workshop led by Elton Vecchietti, UX department lead at Modus Create, in order to address one of those major issues that is mainly facing *users,* as opposed to *contributors and maintainers*.
 The upcoming 23.05 release provided a great opportunity to get together many people in one setting to work on these two complementary subjects.
 
 Preparations started in February 2023 by outlining an agenda and moderation plan, sketching possible outcomes, and probing for interest among potential participants.
