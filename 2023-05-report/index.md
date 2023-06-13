@@ -389,7 +389,7 @@ Most importantly, it helped everyone shape ideas about what exactly it is that w
 
 Elton had much, much more ground to cover.
 Despite only scratching the surface due to limited time, we can expect that participants sharing their experience and insights, and the ideas that emerged making their way into our work, will already have an impact in the near-term future.
-And most importantly, we’re very much hoping to continue these explorations in half a year.
+Most importantly, we’re very much hoping to continue these explorations in half a year.
 Elton, thank you very much once again for your support and sharing your outstanding expertise!
 
 # Acknowledgements
