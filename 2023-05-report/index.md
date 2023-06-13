@@ -70,7 +70,7 @@ A few, perhaps non-obvious, observations:
 ![](./architecture.png)
 
 Additional insights, in particular about the ecosystem surrounding Nix and Nixpkgs, can be gleaned from an interactive [Map of GitHub](https://anvaka.github.io/map-of-github/#10.76/11.2193/-8.4821).
-It would be interesting to have a more detailed internal view based on data from `CODEOWNERS` files (for example for [Nix](https://github.com/NixOS/nix/blob/master/.github/CODEOWNERS), [Nixpkgs](https://github.com/NixOS/nixpkgs/blob/master/.github/CODEOWNERS), [nix.dev](https://github.com/NixOS/nix.dev/blob/master/.github/CODEOWNERS)) as well as Nixpkgs maintainer information (based on `[```maintainer-list.nix```](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix)`, `[team-list.nix](https://github.com/NixOS/nixpkgs/blob/master/maintainers/team-list.nix)`, and the individual package declarations).
+It would be interesting to have a more detailed internal view based on data from `CODEOWNERS` files (for example for [Nix](https://github.com/NixOS/nix/blob/master/.github/CODEOWNERS), [Nixpkgs](https://github.com/NixOS/nixpkgs/blob/master/.github/CODEOWNERS), [nix.dev](https://github.com/NixOS/nix.dev/blob/master/.github/CODEOWNERS)) as well as Nixpkgs maintainer information (based on [`maintainer-list.nix`](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix), [`team-list.nix`](https://github.com/NixOS/nixpkgs/blob/master/maintainers/team-list.nix), and the individual package declarations).
 
 ## Problem statements and working groups
 
@@ -410,4 +410,4 @@ Save the date:
 There will be much more hacking and knowledge sharing, longer breaks, better advance communication, and more lead time to prepare trips.
 In particular, we hope to meet many participants again, to share and evaluate results.
 We also want attract many more leading contributors from the Nix ecosystem, better learn to know each other, and work on hard problems together.
-Subscribe to `[nix-community/developer-workshop](https://github.com/nix-community/developer-workshop)` to stay up to date with planning and preparations.
+Subscribe to [`nix-community/developer-workshop`](https://github.com/nix-community/developer-workshop) to stay up to date with planning and preparations.
