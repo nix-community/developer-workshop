@@ -8,7 +8,7 @@ It featured a hackathon, a Nix developer workshop, and a UX workshop, that all t
 Both the Nix ecosystem and the community building it are experiencing noticeable growth in the past few years.
 This is naturally accompanied by technical and coordination challenges, which are compounded by an increasing pace of developments due to influx of new users and contributors.
 The distributed setting dominated by asynchronous communication often makes it hard to identify, keep track of, and tackle deeper or long-standing issues alongside development and maintenance tasks.
-And most importantly, everyone involved has their own set of ideas about what’s important and how to do things.
+Most importantly, everyone involved has their own set of ideas about what’s important and how to do things.
 
 Hallway and dinner table discussions at in-person events such as NixCon 2022 or the past [UX workshop in November 2022](https://discourse.nixos.org/t/2022-11-26-nix-nixpkgs-nixos-hackathon-in-zurich-rapperswil-jona/23402/11) give a rare glimpse into that mind space.
 Such encounters not only inform many strategic decisions for individuals and organisations, but also allow forming social ties between the people involved.
