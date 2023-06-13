@@ -1,4 +1,4 @@
-# Zürich ZHF Hackathon and Workshop report
+# Zürich 23.05 ZHF Hackathon and Workshop report
 
 On the last weekend of May 2023, the Zürich Friends of Nix hosted a multi-event around [ZHF 23.05](https://discourse.nixos.org/t/zero-hydra-failures-23-05-edition/27959).
 It featured a hackathon, a Nix developer workshop, and a UX workshop, that all took place at [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/) (OST) right next to Lake Zürich.
