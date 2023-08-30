@@ -2,7 +2,8 @@
 
 ## What?
 
-A completely free two-day developer workshop and NixOS release hackathon.
+A two-day developer workshop and NixOS release hackathon.
+Free entry, food, and drinks.
 
 ## When?
 
