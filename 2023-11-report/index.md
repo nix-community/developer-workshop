@@ -30,7 +30,7 @@ There is progress on a few of the objectives though:
 
 The event took place in two large rooms and the hallway, and spanned two days, starting Saturday at 10:00 and ending at 19:00 with a group photo, and continuing on Sunday at 10:00 until it phased out around 17:00.
 
-![](./XXX.jpg)
+![](DSC03364_01.jpg)
 
 We had around 35 attendees on Saturday and 25 on Sunday, arriving from all over Europe, and we were glad to meet both first-time participants as well as regulars.
 In addition to all the people giving presentations, we were particularly happy to welcome NixOS Foundation board member @zimbatm, @delroth from the infrastructure team, `niv` author @nmattia, and many others.
@@ -50,10 +50,14 @@ On Sunday:
 - Ivan (@imincik) introduced the [Nixpkgs geospatial software maintainer team](https://discourse.nixos.org/t/creating-nix-geospatial-team/23454) he founded
 - Matthias (@mat) brought our attention to how commercial interests impact community dynamics in open source
 
+![](DSC03267_02.jpg)
+
 # ZHF Hackathon
 
 Before and after the talks in the morning, there was plenty of time for introductions or catching up.
 Plenty of coffee, fresh vegan sandwiches and wraps, and λ shaped cookies were waiting in the hallway.
+
+![](DSC03265_01.jpg)
 
 Snacking was accompanied by hacking, in which most of the attendees participated this time.
 @infinisil was available to assist beginners and experts alike with navigation and debugging.
@@ -63,6 +67,8 @@ Over the weekend, [22 ZHF pull requests](https://github.com/NixOS/nixpkgs/issues
 # UX workshop
 
 This was the third iteration of the Nix UX workshop led by Elton Vecchietti, Director of UX at Modus Create.
+
+![](DSC03304_01.jpg)
 
 In the first event a year ago, the group had outlined a typical user journey, tracing interactions across a sequence of touchpoints.
 In the second event half a year ago, we compared Nix to similar tools, framed processes in the ecosystem in terms of resource flows, and tried to distill central value propositions.
