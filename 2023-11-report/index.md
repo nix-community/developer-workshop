@@ -7,9 +7,9 @@ It featured a two-day hackathon and a UX workshop, that all took place at [Easte
 
 The Nix ecosystem is growing, and so is the community building it.
 This can also be felt in the now regular Zürich ZHF hackathon, which has seen more and more participants over time.
-The event is designed to encourage people to learn to know each other, hack on everything Nix, and together shape the future of open source.
+The event is designed to encourage people to get to know each other, hack on everything Nix, and shape the future of open source together.
 
-The third iteration again incorporated participant feedback from last time, and also experience from in-person [workshops at NixCon 2023](https://discourse.nixos.org/t/nixcon-governance-workshop/32705):
+On this third iteration, we incorporated feedback from last time as well as experiences from [NixCon 2023 in-person workshops](https://discourse.nixos.org/t/nixcon-governance-workshop/32705):
 - More time for hacking and mingling
 - Shorter workshop sessions
 - A variety of brief talks for overview and inspiration
@@ -17,9 +17,9 @@ The third iteration again incorporated participant feedback from last time, and 
 
 Preparations started in June 2023, right after the event, by writing up a report, processing feedback, and sketching a schedule for the next event.
 In the four months before the event, we invited many guests and followed up with reminders, refined the agenda, and prepared some of the logistics.
-While originally there were ideas to make some progress on project governance topics, some key people couldn't make it this time and it turned out that the schedule wouldn't have allowed for it anyway.
+While originally there were plans to work on project governance topics, some key people couldn't make it to the workshop this time and it turned out that the schedule wouldn't have allowed for it anyway.
 
-A brief survey on state the 6-months objectives from the last workshop showed that it wouldn't make sense to have a separate agenda item for that.
+A brief survey of the 6-month-objectives from the last workshop showed that it wouldn't make sense to have a separate agenda item for those.
 There is progress on a few of the objectives though:
 - @zimbatm launched [Nix packaging as a service](https://discourse.nixos.org/t/beta-launch-nix-packaging-as-a-service/34683)
 - The [commercial support page](https://nixos.org/community/commercial-support) on nixos.org got more specific with respect to which support services are offered
@@ -32,8 +32,8 @@ The event took place in two large rooms and the hallway, and spanned two days, s
 
 ![](./XXX.jpg)
 
-We had around 35 attendees on Saturday and 25 on Sunday, arriving from all over Europe, and we were happy to meet both first-time participants as well as regulars.
-In addition to all the people giving presentations, we were particularly happy welcome NixOS Foundation board member @zimbatm, @delroth from the infrastructure team, `niv` author @nmattia, and many others.
+We had around 35 attendees on Saturday and 25 on Sunday, arriving from all over Europe, and we were glad to meet both first-time participants as well as regulars.
+In addition to all the people giving presentations, we were particularly happy to welcome NixOS Foundation board member @zimbatm, @delroth from the infrastructure team, `niv` author @nmattia, and many others.
 
 # Lightning talks
 
@@ -45,6 +45,7 @@ On Saturday:
 - Elton (@EltonUX) summarised the last two workshop sessions ([November 2022](https://discourse.nixos.org/t/2022-11-26-nix-nixpkgs-nixos-hackathon-in-zurich-rapperswil-jona/23402/11) and [May 2023](https://discourse.nixos.org/t/zurich-23-05-zhf-hackathon-and-workshop-report/29093)), and gave taste of what would expect participants this time
 - Ivan (@iminicik) and Auguste (@augustebaum) reported on their mob programming experience with Summer of Nix
 - Silvan (@infinisil) made his traditional introduction to working on ZHF
+
 On Sunday:
 - Ivan (@imincik) introduced the [Nixpkgs geospatial software maintainer team](https://discourse.nixos.org/t/creating-nix-geospatial-team/23454) he founded
 - Matthias (@mat) brought our attention to how commercial interests impact community dynamics in open source
@@ -52,7 +53,7 @@ On Sunday:
 # ZHF Hackathon
 
 Before and after the talks in the morning, there was plenty of time for introductions or catching up.
-Plenty of Coffee, fresh vegan sandwiches and wraps, and λ shaped cookies were waiting in the hallway.
+Plenty of coffee, fresh vegan sandwiches and wraps, and λ shaped cookies were waiting in the hallway.
 
 Snacking was accompanied by hacking, in which most of the attendees participated this time.
 @infinisil was available to assist beginners and experts alike with navigation and debugging.
@@ -64,10 +65,10 @@ Over the weekend, [22 ZHF pull requests](https://github.com/NixOS/nixpkgs/issues
 This was the third iteration of the Nix UX workshop led by Elton Vecchietti, Director of UX at Modus Create.
 
 In the first event a year ago, the group had outlined a typical user journey, tracing interactions across a sequence of touchpoints.
-In the second event half a year ago, we made comparisons to similar tools, framed processes in the ecosystem in terms of resource flows, and tried to distill central value propositions.
+In the second event half a year ago, we compared Nix to similar tools, framed processes in the ecosystem in terms of resource flows, and tried to distill central value propositions.
 This time, the goal was to come up with an information architecture for the central hub of the ecosystem, with the intention of supporting the Nix marketing team in their ongoing effort to rework nixos.org.
 
-In three sessions distributed over two days, guided by Elton and building on the understanding gathered so far, a group of 5-10 people tried to systematically answer three major questions:
+In three sessions spread out over two days, guided by Elton and building on the understanding gathered so far, a group of 5-10 people tried to systematically answer three major questions:
 
 1. Which user types do we support?
 2. Which objects of interest do they interact with?
@@ -121,7 +122,7 @@ The group struggled a bit with untangling objects from their properties and acti
 
 Again, each item was explained verbally and sometimes annotated or reworded for clarity.
 
-The collection was again clustered, and also got preliminary priorities with labels `{1,2,3}{A,B,C}` denoting three top-level categories 1-3, each with three items A-C:
+The collection was then clustered by topic (letters A-C) and prioritised (numbers 1-3):
 - 1A Packages
 - 1B Customisation
 - 1C Community
@@ -161,12 +162,13 @@ The result was presented to the group of ZHF hackers in the other room for a qui
 ## Summary
 
 While at times it felt like hair splitting over terms and definitions, and the fast pace necessitated glimpsing over some inaccuracies, the procedure was highly organised and produced new insights for participants.
-One of them is how Nix is at the nexus between different ecosystems, wrapping artifacts of some (e.g. software builds, Git or Vim configurations, service definitions) and producing artifacts for others (e.g. Unix user environments, Linux distributions, Docker images, virtual machine images) -- anything that can be expressed in terms of files in a file system.
+One of them is how Nix is at the nexus between different ecosystems, wrapping artifacts of some (e.g. software builds, Git or Vim configurations, service definitions) and producing artifacts for others (e.g. Unix user environments, Linux distributions, Docker images, virtual machine images).
 
-Elton pointed out that the kind of process we went through in three weekends usually takes on the order of six weeks and involves all stakeholders of an organisation, so we can consider it as a glimpse at what's possible.
+Elton pointed out that the kind of process we went through in three weekends usually takes somewhere around six weeks and involves all stakeholders of an organisation, so we can consider it as a glimpse of what's possible.
 Therefore it's not surprising that these and the past sessions really felt like work, and that with Elton's guidance and in a short amount of time we still have achieved a great increase of clarity that was otherwise unavailable.
 
 Some of the topics, user types, and objects of interest we discussed and compiled are already represented on nixos.org, nix.dev, and Discourse, with varying degrees of structure.
+For example, nixos.org shows where to get in touch with the community, nix.dev offers learning materials and links to documentation, and there is a job board on Discourse.
 The workshop results also highlight gaps as well as opportunities to adjust emphasis to better accommodate the user needs we have identified in all of these sessions.
 We hope that these results will help the Nix marketing team and the community to keep improving our systems of communication.
 
