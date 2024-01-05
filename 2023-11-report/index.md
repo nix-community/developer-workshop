@@ -17,7 +17,8 @@ On this third iteration, we incorporated feedback from last time as well as expe
 
 Preparations started in June 2023, right after the event, by writing up a report, processing feedback, and sketching a schedule for the next event.
 In the four months before the event, we invited many guests and followed up with reminders, refined the agenda, and prepared some of the logistics.
-While originally there were plans to work on project governance topics, some key people couldn't make it to the workshop this time and it turned out that the schedule wouldn't have allowed for it anyway.
+While originally there were plans to work on project governance topics, some key people couldn't make it to the workshop this time.
+It turned out that the schedule wouldn't have allowed for it anyway.
 
 A brief survey of the 6-month-objectives from the last workshop showed that it wouldn't make sense to have a separate agenda item for those.
 There is progress on a few of the objectives though:
@@ -148,7 +149,9 @@ Then we tried to find the three most important user types and the objects they i
 
 ## Topics
 
-On the second workshop day, with a smaller group due to participants' time constraints (and also some exhaustion from the first two sessions), we re-evaluated the collections of user types and objects and were tasked to find 9 topics and refine the objects of interests that belong to these topics, but without a particular order.
+On the second workshop day, we re-evaluated the collections of user types and objects.
+We were tasked to find 9 topics and refine the objects of interests that belong to these topics, but without a particular order.
+We were smaller group due to participants' time constraints and fatigue from the first two sessions.
 
 The following topics were identified:
 - Downloads
