@@ -55,4 +55,11 @@ The next event is already in the making, save the date:
 
 Looking forward to more hacking, snacking, knowledge sharing, and improving Nix for everyone!
 
-For next time we intend to double down on enabling more people to contribute, welcoming new members to the community, better learning to know each other, and working on hard problems together. Subscribe to the [Zurich friends of Nix at meetup.com](https://www.meetup.com/nix-zurich/), the [NixOS Discourse *Events* category](https://discourse.nixos.org/c/events/13), or [`nix-community/developer-workshop`](https://github.com/nix-community/developer-workshop) to stay up to date with planning and preparations.
+For next time we intend to double down on enabling more people to contribute, welcoming new members to the community, better learning to know each other, and working on hard problems together. You can reach us via:
+
+- the [Zürich friends of Nix at meetup.com](https://www.meetup.com/nix-zurich/)
+- our official Matrix room at [#zurich:nixos.org](https://matrix.to/#/#zurich:nixos.org)
+- the [NixOS Discourse *Events* category](https://discourse.nixos.org/c/events/13)
+- [`nix-community/developer-workshop`](https://github.com/nix-community/developer-workshop)
+
+to stay up to date with planning and preparations.
