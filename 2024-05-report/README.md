@@ -34,7 +34,7 @@ Saturday's hacking was made even more enjoyable with organisers supplying Poke B
 
 ![](./DSC04153_02.jpg)
 
-On Sunday, Zurich friend of Nix Cazim enchanted everyone with his outdoor Wok cuisine for an extended lunch break in the lake park.
+On Sunday, Zürich friend of Nix Cazim (@cyhsi) enchanted everyone with his outdoor Wok cuisine for an extended lunch break in the lake park.
 
 ![](./DSC04175_01.jpg)
 
