@@ -40,7 +40,7 @@ On Sunday, Zürich friend of Nix Cazim (@cyhsi) enchanted everyone with his outd
 
 # Acknowledgements
 
-This event was made possible by Prof. Dr. Farhad Mehta, professor of informatics at the OST, by accommodating us in a large, modern computer room with a beautiful lake view. Thanks a lot to Raffael Das Gupta (@das-g) for your support with the venue.
+This event was made possible by Prof. Dr. Farhad Mehta, professor of informatics at the OST, by accommodating us in a large, modern computer room with a beautiful lake view. Thanks a lot to Raphael Das Gupta (@das-g) for your support with the venue.
 [Tweag](https://tweag.io), the Modus Create Open Source Program Office lead by Mathieu Boespflug (@mboes), and [Antithesis](https://antithesis.com), thanks to their ongoing sponsoring, enabled @infinisil and @fricklerhandwerk to participate as part of their work on the Nix ecosystem.
 
 Thanks to all the participants for your attendance and active involvement, and for providing [detailed feedback on the event](https://github.com/nix-community/developer-workshop/issues/5) so we can make it even better next time.
