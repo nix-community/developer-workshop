@@ -28,7 +28,7 @@ Following popular demand, on Sunday @ners held an impromptu seminar on setting u
 
 ![](./DSC04159_01.jpg)
 
-Over the weekend, the group [created 20](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A2024-05-24..2024-05-26&type=pullrequests) and [concluded 15](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A2024-05-24..2024-05-26&type=pullrequests) issues or pull requests, with the event series now totalling at [68 created](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A%3C2024-05-26&type=pullrequests) and [48 concluded](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A%3C2024-05-26&type=pullrequests) contributions.
+Over the weekend, the group [created 20](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A2024-05-24..2024-05-26&type=pullrequests) and [closed 15](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A2024-05-24..2024-05-26&type=pullrequests) issues or pull requests, with the event series now totalling at [68 created](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A%3C2024-05-26&type=pullrequests) and [48 concluded](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A%3C2024-05-26&type=pullrequests) contributions.
 
 Saturday's hacking was made even more enjoyable with organisers supplying Poke Bowls for lunch. The day ended with a group photo at the lake, and part of the group went on to have dinner together.
 
