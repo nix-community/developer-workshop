@@ -10,7 +10,7 @@ Since the marketing team's 2024 community survey got delayed and we thus didn't 
 
 # Event
 
-The event took place in a large and the hallway, and spanned Saturday and Sunday from 10:00 to 18:00.
+The event took place in two large classroom and the hallway connecting them. It spanned Saturday and Sunday from 10:00 to 18:00.
 
 We had 20 attendees on Saturday and 16 on Sunday, once again arriving from all over Europe. We were very happy to welcome first-time participants, regulars such as @gefla @das-g, and Nixpkgs maintainers @infinisil, @roberth, and @imincik who were around to share their expertise.
 
