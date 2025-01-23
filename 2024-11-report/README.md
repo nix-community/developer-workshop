@@ -2,7 +2,7 @@
 
 On the last weekend of November 2024, the Zürich Friends of Nix hosted yet another two-day hackathon around the [Zero Hydra Failures release preparations for NixOS 24.11](https://discourse.nixos.org/t/lets-have-a-great-24-11-release-cycle/51549) at [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/) (OST) right next to Lake Zürich.
 
-We're proud to have hosted the fifth such event in a row. It's designed to encourage people to get to know each other, hack on everything Nix, and shape the future of open source together.
+These events are designed to encourage people to get to know each other, hack on everything Nix, and shape the future of open source together. We are proud to have hosted the fifth such event in a row.
 
 ![](./DSC05782.jpg)
 
@@ -10,15 +10,15 @@ We're proud to have hosted the fifth such event in a row. It's designed to encou
 
 Preparations started a month after the previous hackathon, by publishing [the report](https://discourse.nixos.org/t/2024-05-25-26-saturday-sunday-zhf-24-05-hackathon-ost-zurich-rapperswil-jona/45380/2), evaluating feedback, gathering ideas, and planning what needs to be done for the next event.
 
-In particular we focused enabling more people to contribute, welcoming new members to the community, better learning to know each other, and working on hard problems together. This primarily involved improving outreach and consistency of communication and reminders, in order to help get the right people into one room.
+In particular we focused on enabling more people to contribute, welcoming new members to the community, better getting to know each other, and working on hard problems together. This primarily involved improving outreach and consistency of communication and reminders, in order to help get the right people together.
 
 # Event
 
 The event took place in two large classrooms and the hallway connecting them. It spanned Saturday and Sunday from 10:00 to 18:00. This time the organiser team was suprised to arrive to half a room full of people who already started hacking around 9:00.
 
-We had more than 40 attendees on Saturday and around 30 on Sunday, arriving from Switzerland and all over Europe: France, Germany, the Netherlands, even as far as Island. This time, part of the crowd was a release manager, a member of the [steering committee](https://github.com/NixOS/org/blob/main/doc/governance.md), multiple Nixpkgs maintainers and major contributors, members of some [community teams](https://nixos.org/community/#governance-teams), representatives of various companies operating in the Nix ecosystem, a few former and recent [Summer of Nix](https://github.com/ngi-nix/summer-of-nix) participants, as well as a number of beginners and more experienced contributors.
+We had more than 40 attendees on Saturday and around 30 on Sunday, arriving from Switzerland and all over Europe: France, Germany, the Netherlands, even as far as Iceland. We were glad to see several key people in the crowd: a release manager, a member of the [steering committee](https://github.com/NixOS/org/blob/main/doc/governance.md), multiple Nixpkgs maintainers and major contributors, [governance team members](https://nixos.org/community/#governance-teams), representatives of various companies operating in the Nix ecosystem, a few former and recent [Summer of Nix](https://github.com/ngi-nix/summer-of-nix) participants, as well as a number of beginners and more experienced contributors.
 
-We were very happy to welcome an extraordinary number of people new to Nix, meet again our regulars such as @infinisil@ roberth @imincik @gefla @Nebucatnetzer @das-g, and especially appreciated having @wegank @tfc @SynQ @hsjobeki @erictapen who were around to share their expertise.
+We were very happy to welcome an extraordinary number of people new to Nix as well as our regulars such as @infinisil, @roberth, @imincik, @gefla, @Nebucatnetzer and @das-g. We especially appreciated having @wegank, @tfc, @SynQ, @hsjobeki, and @erictapen around to share their expertise.
 
 On Saturday:
 - Alex (@ners) welcomed attendees
@@ -30,7 +30,7 @@ Well-caffeinated, attendees clustered into groups working on or discussing vario
 
 ![](./DSC05633.jpg)
 
-Saturday's hacking ended with a group photo while discussions continued late into the evening over this edition's culinary feat: cheese fondue and Glühwein. On Sunday the hacking continued, with brave Nix evangelists who brought their friends or colleages receiving their honorary T-shirts ("I'm a special snowflake" and "🪟🍎🐧❄ One of these things is not like the others" went out of stock quickly).
+Saturday's hacking ended with a group photo while discussions continued late into the evening over this edition's culinary feat: cheese fondue and Glühwein. On Sunday the hacking continued, with brave Nix evangelists who brought their friends or colleagues receiving their honorary T-shirts ("I'm a special snowflake" and "🪟🍎🐧❄ One of these things is not like the others" went out of stock quickly).
 
 Over the weekend, the group [created 28](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A2024-11-23..2024-11-25&type=pullrequests) and [closed 24](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A2024-11-23..2024-11-25&type=pullrequests) issues or pull requests, an all time high! At the time of writing, the event series resulted in [108 created](https://github.com/search?q=org%3ANixOS+ZurichZHF+created%3A%3C2025-01-19&type=pullrequests) and [105 concluded](https://github.com/search?q=org%3ANixOS+ZurichZHF+closed%3A%3C2025-01-19&type=pullrequests) contributions.
 
@@ -40,7 +40,7 @@ Both by the numbers and by the vibes, this was the greatest Nix event in Zürich
 
 # Discussions
 
-- @tfc @SynQ @roberth @fricklerhandwerk had a fruitful exchange on increasing organisational maturity around the Nix community, and which benefits it would bring if we invested effort in striking a healthy balance between:
+- @tfc @SynQ @roberth @fricklerhandwerk had a fruitful exchange on increasing organisational maturity around the Nix community and what we would gain by striking a healthy balance between:
     - running predictable operations to solve large-scale problems, and
     - leaving room for experimantation to preserve and foster the community spirit that brought us here. 
 - @SynQ talked with @infinisil and @elikoga about how a hosting provider can support the NixOS infrastructure team with hardware, in order to ease the migration off Equinix Metal.
@@ -57,7 +57,7 @@ Both by the numbers and by the vibes, this was the greatest Nix event in Zürich
 
 @hsjobeki (Clan) @elikoga (Thymis), @roberth @SynQ @fricklerhandwerk (Fediversity): Each of us works on a framework that has NixOS deployments at its core and exposes a user interface for letting people orchestrate that. Every project has a slightly different user group and goal they ultimately want to achieve. The underlying technical challenges the we are facing have a big overlap.
 
-We presented each of our architectures and how we aim to solve shared problems, to learn from each other and gain insights in fields that one of us have explored already. 
+We presented each of our architectures and how we aim to solve shared problems, to learn from each other, and to gain insights in fields that some of us have explored already. 
 
 | | [Fediversity](https://www.fediversity.eu/) + [NixOps4](https://github.com/nixops4/nixops4) | [Clan](https://clan.lol/) | [Thymis](https://thymis.io) |
 |-|-|-|-|
@@ -101,9 +101,9 @@ Problems downstream UI projects share:
 
 - NixOS is a hard-to-work-with moving target, with options beeing renamed removed, changing behavior. Any abstraction on top of NixOS will likely fall apart if not maintained by the same people or continously kept in sync with downstream efforts.
 - NixOS options cannot be set efficiently through a programmatically generated UI if they are not a subset of JSON.
-- Generating a UI from NixOS options ends up looking like a JSON schema editor. But not like the intuitive UI that non-techincal people would appreciate.
+- Generating a UI from NixOS options ends up looking like a JSON schema editor, not like an intuitive UI that non-technical people would appreciate.
 
-To brigde that gap a possible solutions could include options-metadata or type 'annotations' in Nix. We worked on option metadata, type merging, and improving `lib.types` as necessary preparation for that idea.
+To bridge that gap possible solutions could include options-metadata or type 'annotations' in Nix. We worked on option metadata, type merging, and improving `lib.types` as necessary preparation for that idea.
 
 Example of the idea: options can be created in Nixpkgs or by anyone downstream. 
 
@@ -139,7 +139,7 @@ This event wouldn't be possible without the amazing event team around @ners and 
 
 Thanks to all the participants for your attendance and active involvement, and for providing [detailed feedback on the event](https://github.com/nix-community/developer-workshop/issues/7) so we can make it even better next time.
 
-And last but not least, many thanks to release NixOS 24.11 release managers @RossComputerGuy and @wegank for another great edition of our favorite Linux distribution!
+And last but not least, many thanks to NixOS 24.11 release managers @RossComputerGuy and @wegank for another great edition of our favorite Linux distribution!
 
 # Looking ahead
 
@@ -147,7 +147,7 @@ The next event is already in the making, save the date:
 
 > Saturday 24rd and Sunday 25th of May 2025
 
-Next time we want to make it even easier for people to work together on things they're interested in, and welcoming many more new members to the community. We hope to meet all of you again!
+Next time we want to make it even easier for people to work together on things they're interested in and to welcome many more new members to the community. We hope to meet all of you again!
 
 For up-to-date information, check the [Nix Zürich user group](https://zurich.nix.ug/) website.
 
