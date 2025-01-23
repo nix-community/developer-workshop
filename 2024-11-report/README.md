@@ -42,7 +42,7 @@ Both by the numbers and by the vibes, this was the greatest Nix event in Zürich
 
 - @tfc @SynQ @roberth @fricklerhandwerk had a fruitful exchange on increasing organisational maturity around the Nix community and what we would gain by striking a healthy balance between:
     - running predictable operations to solve large-scale problems, and
-    - leaving room for experimantation to preserve and foster the community spirit that brought us here. 
+    - leaving room for experimantation to preserve and foster the community spirit that brought us here.
 - @SynQ talked with @infinisil and @elikoga about how a hosting provider can support the NixOS infrastructure team with hardware, in order to ease the migration off Equinix Metal.
 - @tfc @elikoga @das-g shared thoughts about improving communication culture and raising the degree of professionalism in public exchanges.
 - @maralorn organized [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) issues into a [project board](https://github.com/users/maralorn/projects/1) and discussed various feature ideas for the future.
@@ -57,7 +57,7 @@ Both by the numbers and by the vibes, this was the greatest Nix event in Zürich
 
 @hsjobeki (Clan) @elikoga (Thymis), @roberth @SynQ @fricklerhandwerk (Fediversity): Each of us works on a framework that has NixOS deployments at its core and exposes a user interface for letting people orchestrate that. Every project has a slightly different user group and goal they ultimately want to achieve. The underlying technical challenges the we are facing have a big overlap.
 
-We presented each of our architectures and how we aim to solve shared problems, to learn from each other, and to gain insights in fields that some of us have explored already. 
+We presented each of our architectures and how we aim to solve shared problems, to learn from each other, and to gain insights in fields that some of us have explored already.
 
 | | [Fediversity](https://www.fediversity.eu/) + [NixOps4](https://github.com/nixops4/nixops4) | [Clan](https://clan.lol/) | [Thymis](https://thymis.io) |
 |-|-|-|-|
@@ -72,7 +72,7 @@ We presented each of our architectures and how we aim to solve shared problems, 
 
 ### UX development
 
-@maralorn brought up a UX issue with package search, which shows many broken Haskell packages, making a bad impression to Haskellers interested in Nix. Together with @inifisil @hsjobeki @das-g @erictapen we ended up mapping out the broader problem space, because it wasn't obvious which of the various possible interventions was the most sensible for users, also in terms of effort and impact. 
+@maralorn brought up a UX issue with package search, which shows many broken Haskell packages, making a bad impression to Haskellers interested in Nix. Together with @inifisil @hsjobeki @das-g @erictapen we ended up mapping out the broader problem space, because it wasn't obvious which of the various possible interventions was the most sensible for users, also in terms of effort and impact.
 
 As a short-term fix there was no opposition to @maralorn's proposal that we should filter out broken packages by default but leave a possibility for showing them when needed. For the mid-term @infinisil suggested approaches to reduce the number of broken packages, such as automatically re-trying to build packages marked broken -- since that label may go out of date.
 
@@ -93,9 +93,9 @@ This immediately allowed us to formalize the well-known problem that search user
 
 ![](./IMG_0320.jpg)
 
-### On user interfaces for NixOS configurations 
+### On user interfaces for NixOS configurations
 
-@hsjobeki and @infinisil worked out how NixOS-modules (options) could be rendered as a user-friendly UI. 
+@hsjobeki and @infinisil worked out how NixOS-modules (options) could be rendered as a user-friendly UI.
 
 Problems downstream UI projects share:
 
@@ -105,7 +105,7 @@ Problems downstream UI projects share:
 
 To bridge that gap possible solutions could include options-metadata or type 'annotations' in Nix. We worked on option metadata, type merging, and improving `lib.types` as necessary preparation for that idea.
 
-Example of the idea: options can be created in Nixpkgs or by anyone downstream. 
+Example of the idea: options can be created in Nixpkgs or by anyone downstream.
 
 ```nix
 # Some NixOS-module
@@ -114,7 +114,7 @@ Example of the idea: options can be created in Nixpkgs or by anyone downstream.
    # Select one of the existing users or create a new one.
    options.admin = mkOption {
     type = types.annotated { uiElement = "UI:UsernameDropdown"; } types.str;
-    meta.autocomplete = "config.users.users.username" 
+    meta.autocomplete = "config.users.users.username"
     # Could provide the UI with information where to look
     # for "good" values without creating a bad dependency between option and config
   };
